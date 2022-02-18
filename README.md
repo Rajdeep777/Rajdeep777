@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Web Development
 - 🤔 I’m looking for help with @imvickykumar999
 - 💬 Ask me about MERN
-- 📫 How to reach me: 
+- 📫 How to reach me: www.linkedin.com/in/rajdeep777
 - 😄 Pronouns: Rajdeep
 - ⚡ Fun fact: Imagination is more important than knowledge
 
