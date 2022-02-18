@@ -4,7 +4,7 @@
 
 <h1 align = "Center" >Hello There 👋 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230BB10E&lines=Hi+I+am+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230BB10E&lines=Hi+I'm+web+developer)](https://git.io/typing-svg)
 
 <p align="Left"> <img src="https://komarev.com/ghpvc/?username=rajdeep777&style=plastic&color=orange&label=PROFILE+VIEWS" alt="rajdeep777" /> </p>
 
