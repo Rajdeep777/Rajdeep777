@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+<!-- 👯 I’m looking to collaborate on -->
+
+<h1 align = "Center" >Hello There 👋 </h1>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230BB10E&lines=Hi+I+am+web+developer)](https://git.io/typing-svg)
+
+<p align="Left"> <img src="https://komarev.com/ghpvc/?username=rajdeep777&style=plastic&color=orange&label=PROFILE+VIEWS" alt="rajdeep777" /> </p>
+
+-------------------------------
+
+## About me
+
 <!--
 **Rajdeep777/Rajdeep777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
@@ -14,5 +26,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Imagination is more important than knowledge
 
 
-<!-- 👯 I’m looking to collaborate on -->
+## Activity
 
+<div align="center">
+    <a href="https://github.com/rajdeep777">
+ <img src="https://activity-graph.herokuapp.com/graph?username=rajdeep777&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
+ </a>
+</div>
+
+<br>
+
+<p align="Center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajdeep777&layout=compact&langs_count=10&theme=tokyonight&title_color=2895BC&hide=VHDL,Stata&custom_title=Most recently used languages" alt="Most recently used languages">
+    <br> <br>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajdeep777&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
+</p>
+
+ <img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+
+<!--
+- 👯 I’m looking to collaborate on...
+ 
+--->
