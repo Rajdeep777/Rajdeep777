@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!-- 👯 I’m looking to collaborate on -->
 
 <h1 align = "Center" >Hello There 👋 </h1>
