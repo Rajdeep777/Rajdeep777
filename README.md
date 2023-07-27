@@ -28,7 +28,6 @@ Here are some ideas to get you started:
 
 <div align="center">
     <a href="https://github.com/rajdeep777">
- <img src="https://activity-graph.herokuapp.com/graph?username=rajdeep777&custom_title=Recently%20contributions&hide_border=true&area=true&area_color=2895BC&point=FE0000&line=2895BC&theme=react-dark" alt="Recently contributions graph">
  </a>
 </div>
 
@@ -39,9 +38,6 @@ Here are some ideas to get you started:
     <br> <br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajdeep777&hide=issues&show_icons=true&theme=tokyonight&hideborder=true&title_color=2895BC&icon_color=FE0000&include_all_commits=true" alt="GitHub stats">
 </p>
-
- <img src="https://github.com/h-ssiqueira/h-ssiqueira/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-
 <!--
 - 👯 I’m looking to collaborate on...
  
